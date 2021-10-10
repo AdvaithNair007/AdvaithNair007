@@ -1,0 +1,10 @@
+Cryptology is a study of codes which includes cyrptography and cryptanalysis
+Cryptography is a study of how to make codes. Like encryption and decryption algorithms
+cryptanalysis is a study of how to break the codes for eg: Bruteforece attacks, Differential cyrptanalysis, side channel analysis etc
+Cryptosystems are having several components and they are Plain text, Cipher Text, Algorithm : Its a process of converting plain text to  cipher text or vice versa, Secret Key
+
+cryptosystem comes in a variety of different shapes or sizes
+symmetric ciphers use the same secret key for encryption or decryption which has to be a sender and reciever so that it can be shared secretly
+Asymmetric cipheres use different keys for encryption and decryption. They are mathematically derived. They are random. Public keys are used for encryption...
+After sending the encrpted text the reciever can decrypt it with secret key. its used to share large amount of data
+
